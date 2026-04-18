@@ -1,0 +1,36 @@
+Name: Jahan Gaur
+Roll No: 2501730484
+Course: B.Tech CSE AI/ML
+Section: G
+
+--- Dynamic Array Test ---
+Resizing from 2 to 4
+Resizing from 4 to 8
+Resizing from 8 to 16
+Array: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9] | Size: 10 | Capacity: 16
+Pop: 9
+Pop: 8
+Pop: 7
+Array: [0, 1, 2, 3, 4, 5, 6] | Size: 7 | Capacity: 16
+
+--- Singly Linked List Test ---
+5 -> 10 -> 20 -> 30 -> None
+5 -> 10 -> 30 -> None
+
+--- Doubly Linked List Test ---
+1 <-> 2 <-> 99 <-> 3 <-> None
+1 <-> 99 <-> 3 <-> None
+
+--- Stack Test ---
+Pop: 3
+Peek: 2
+
+--- Queue Test ---
+Dequeue: 1
+Front: 2
+
+--- Parentheses Checker ---
+([]) -> Balanced
+([)] -> Not Balanced
+((( -> Not Balanced
+-> Balanced
